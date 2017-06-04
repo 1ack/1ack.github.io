@@ -8,5 +8,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://1ack.github.io/sitemap.xml
-Sitemap: http://1ack.github.io/baidusitemap.xml
+Sitemap: https://1ack.github.io/sitemap.xml
+Sitemap: https://1ack.github.io/baidusitemap.xml
